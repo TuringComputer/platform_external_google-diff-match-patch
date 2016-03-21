@@ -1,1 +1,0 @@
-# platform_external_google-diff-match-patch
